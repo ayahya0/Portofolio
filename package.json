@@ -1,4 +1,5 @@
 {
+"engines": {"node": ">=14.0.0"}
   "name": "my-svelte-project",
   "private": true,
   "version": "0.0.0",
